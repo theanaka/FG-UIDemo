@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllIn1SpriteShaderAssembly", "AllIn1SpriteShaderAssembly.csproj", "{30795e58-d1cb-a88e-511b-c02bb0ec2360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e3f69b45-9e3a-2f75-f676-8e39d845533d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30795e58-d1cb-a88e-511b-c02bb0ec2360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30795e58-d1cb-a88e-511b-c02bb0ec2360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e3f69b45-9e3a-2f75-f676-8e39d845533d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e3f69b45-9e3a-2f75-f676-8e39d845533d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
